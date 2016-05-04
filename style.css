@@ -1,0 +1,11 @@
+html, body {
+  color:#282828
+}
+
+header {
+  background-color: #282828
+}
+
+header, img {
+  width: 300px
+}
